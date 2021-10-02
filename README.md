@@ -8,8 +8,8 @@ Churn is a metric that shows customers who stop doing business with a company or
 The main goal is to develop a machine learning model capable to predict customer churn based on the customer’s data available.
 
 # Data Set: 
-  The bike rentals dataset from the kaggle
-  - [Dataset](https://www.kaggle.com/chinmaybgaikwad/linear-regression-boombikes/data)
+  The telecom customer churn dataset from kaggle
+  - [Dataset](https://github.com/GaikwadChinmay/TELCO-Churn-Prediction/blob/main/Telco-Customer-Churn.csv)
 
 # Data Processing Workflow:
 - Data Inspection
